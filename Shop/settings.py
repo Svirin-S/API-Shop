@@ -110,7 +110,7 @@ AUTH_USER_MODEL = 'Api_Shop.User'
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 
 EMAIL_HOST = 'smtp.mail.ru'
-EMAIL_HOST_USER = 'svirin.sergey92@mail.ru'
+EMAIL_HOST_USER = 'test1948@mail.ru'
 EMAIL_HOST_PASSWORD = 'v303150xrv303150xr'
 EMAIL_PORT = '465'
 EMAIL_USE_SSL = True

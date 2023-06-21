@@ -12,6 +12,6 @@ services:
       POSTGRES_PASSWORD: '12345678'
       POSTGRES_DB: 'app'
 
-  Shop:
+  shop:
     build:
       context: .   
